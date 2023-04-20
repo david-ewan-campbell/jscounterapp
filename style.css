@@ -1,0 +1,13 @@
+body{
+  background-image: linear-gradient(to bottom, #6fe1e1 0%, #5a2699 100%);
+}
+/* gradient styling added from https://webgradients.com/ */
+
+.col-md-6{
+  border: 10px solid white;
+  margin-top: 200px !important;
+  padding: 20px
+}
+
+/* some stylings are not automatically added when using Bootstrap.
+Using the !important tag will override the Bootstrap class & apply the margin change */
