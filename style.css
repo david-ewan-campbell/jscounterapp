@@ -9,5 +9,14 @@ body{
   padding: 20px
 }
 
+button{
+  margin: 20px !important;
+  border: 2px solid black !important;
+}
+
+h1{
+  font-weight: bolder !important;
+  margin: 20px !important;
+}
 /* some stylings are not automatically added when using Bootstrap.
 Using the !important tag will override the Bootstrap class & apply the margin change */
